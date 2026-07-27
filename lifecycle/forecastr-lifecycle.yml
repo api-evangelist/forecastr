@@ -1,0 +1,14 @@
+generated: '2026-07-19'
+method: searched
+source: https://status.forecastr.co/
+status_page: https://status.forecastr.co/
+status_page_provider: Better Stack
+notes: >-
+  Forecastr publishes a hosted Better Stack status page for platform uptime. No
+  public developer API, versioning policy, deprecation policy, SLA document, or
+  RFC 8594 Sunset/Deprecation header support was found — Forecastr is a financial
+  forecasting SaaS and API consumer (QuickBooks/Xero), not a public API provider.
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []
