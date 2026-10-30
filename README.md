@@ -64,6 +64,94 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Forecastr is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Forecastr is a startup financial planning and forecasting platform, founded in 2018 in Louisville, Kentucky, that helps founders and finance teams build investor-ready financial models, track cash flow and runway, plan headcount, budget expenses, and run what-if scenario analysis. It pairs cloud-based forecasting software (a spreadsheet-style formula builder, pre-built templates, drag-and-drop dashboards, and shareable live models) with fractional CFO services, and keeps actuals current through accounting integrations with QuickBooks Online and Xero. Forecastr is an API consumer of those accounting platforms rather than a public API provider; it publishes no developer API, OpenAPI specification, or SDKs at this time.
 
-Backed by: techstars — https://forecastr.co/
+**Areas:** Company · Financial Forecasting · Financial Modeling · Fintech · Startups · Fundraising · CFO Services · Budgeting · Cash Flow · Software-as-a-Service
+
+## Forecastr on APIs.io
+
+Everything profiled for Forecastr is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/forecastr/](https://apis.io/providers/forecastr/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [forecastr](https://apis.io/servers/forecastr/forecastr/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Forecastr Domain Security](https://apis.io/security/forecastr/forecastr-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.forecastr.co/)
+- [Pricing](https://www.forecastr.co/pricing)
+- [Sign up](https://cta-redirect.hubspot.com/cta/redirect/6073939/d465558f-7fd5-4745-9ba3-dcac75141b87)
+- [Support](https://faq.forecastr.co/)
+- [Blog](https://www.forecastr.co/blog)
+- [Terms of service](https://www.forecastr.co/terms)
+- [Privacy policy](https://www.forecastr.co/privacy)
+- [Status](https://status.forecastr.co/)
+
+## API Evangelist rating
+
+**Kin Score 16.3** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 51.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 44.7 |
+
+**Agent readiness 12.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/forecastr/](https://apis.io/providers/forecastr/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Forecastr: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/forecastr/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
